@@ -1,5 +1,5 @@
 pandas
 python-docx
 openpyxl
-xlswriter
+xlsxwriter
 streamlit
